@@ -1,4 +1,4 @@
-Procedure to detect linear superpolies in the polynomial function that generates the first keystream bit of the RCR-32
+Procedure to detect linear superpolies in the polynomial function that generates the first keystream bit of the RCR-32.
 ----------------------------------------------------------------------------------------------------------------------
 1. Download the C and Python files to a directory.
 2. Open a linux terminal and go to the directory where the C and Python files are located.
